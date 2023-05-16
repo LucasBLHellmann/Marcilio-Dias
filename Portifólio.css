@@ -1,0 +1,37 @@
+body {
+    background-color: midnightblue;
+}
+h1{
+    padding-top: 10px;
+    color: red;
+    text-align: center;
+}
+h2{
+    display: inline;
+    text-align: center;
+}
+div{
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-inline: 50px;
+    border-radius: 5px;
+    font-family: helvetica;
+}
+section p{
+    margin-top: 20px;
+}
+section nav{
+    color: midnightblue;
+    margin-inline: 50px;
+}
+section nav ul{
+    display: inline;
+
+}
+section nav ul li{
+    list-style: none;
+    color: whitesmoke;
+    padding: 5px;
+    font-size: x-small;
+    font-family:Arial, Helvetica;
+}
